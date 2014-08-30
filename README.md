@@ -1,7 +1,15 @@
-## Generate MD5/SHA1 hash in Java
+# Java Apps Authentication
 
-For more information follow the next link:
 
-> <http://stackoverflow.com/questions/415953/generate-md5-hash-in-java/25251120#25251120>
+**Java Apps Authentication** provides the authentication of your favorite applications.
+
+## List of applications:
+
+ - **cakePHP**
+ - **Joomla**
+ - **Moodle**
+ - **Wordpress**
+ - **OpenCart**
+ - **Drupal** (_pendient_).
 
 
